@@ -16,12 +16,12 @@ The project aims to explore a significant development of capitalism in the late 
 ### Files
 Consider that github only accepts files less than 100MB without lfs, please unizip *zip* files before reviewing
 
-*data*/: Including original dataset, phylosophy_data.zip
+*data/*: Including original dataset, phylosophy_data.zip
 
-*doc*/: *ipynb* files, including data prepocessing, data analysis and data story. A html version of data story is also attached to this directory
+*doc/*: *ipynb* files, including data prepocessing, data analysis and data story. A html version of data story is also attached to this directory
 
-*figs*/: Figures
+*figs/*: Figures
 
-*libs*/: Including utils.py which contains some functions used in the project
+*libs/*: Including utils.py which contains some functions used in the project
 
-*output*/: *csv* files, including some middle tables and output tables.
+*output/*: *csv* files, including some middle tables and output tables.
